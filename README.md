@@ -1,27 +1,64 @@
 # 👋 Hello, I'm Gabriellucaspaty Droid2  
 
 Welcome to my GitHub profile!  
-This repository is **special** because the content of this `README.md` file is displayed directly on my GitHub profile page.  
-It serves as an introduction to who I am, what I do, and what you can find here.  
+This is a **special repository**, which means the content of this `README.md` file appears directly on my public GitHub profile.  
+It serves as a personal introduction and a place to showcase my skills, tools, and projects.  
 
 ---
 
 ## 🌟 About Me  
-- 💻 I’m passionate about **technology and software development**  
-- 📱 I enjoy working with **Android projects and mobile systems**  
-- ⚡ I often use **Termux, Linux commands, and automation scripts**  
-- 🌍 I like learning from the open-source community and sharing ideas  
-- 🎯 My goal is to create projects that are useful, practical, and fun  
+- 💻 Enthusiastic about **technology, programming, and mobile development**  
+- 📱 Focused on **Android, Termux, and Linux-based systems**  
+- ⚡ Interested in **automation, scripting, and learning new tools**  
+- 🎯 Goal: Share knowledge, write clean code, and build practical projects  
+- 🌍 Active on GitHub as part of the open-source community  
 
 ---
 
 ## 🚀 Skills & Tools  
-These are some of the languages, tools, and platforms I use:  
 
-- **Programming Languages**: Java, Kotlin, Python, Shell  
+### 🖥 Programming Languages  
+I enjoy exploring and experimenting with many programming languages. Here’s a long list of the languages I study, practice, and sometimes use in projects:  
+
+- Assembly  
+- Bash / Shell  
+- C  
+- C++  
+- C#  
+- CSS  
+- Dart  
+- Elixir  
+- Go  
+- Haskell  
+- HTML  
+- Java  
+- JavaScript  
+- Julia  
+- Kotlin  
+- Lua  
+- MATLAB  
+- Objective-C  
+- Perl  
+- PHP  
+- Python  
+- R  
+- Ruby  
+- Rust  
+- Scala  
+- SQL  
+- Swift  
+- TypeScript  
+- Visual Basic .NET  
+
+(Always learning and experimenting with new ones as time goes on!)  
+
+---
+
+### 🔧 Tools and Platforms  
 - **Mobile Development**: Android SDK, Termux, ADB  
-- **Version Control**: Git & GitHub  
-- **Other Interests**: Markdown, Linux, command-line tools, open-source software  
+- **Version Control**: Git, GitHub  
+- **Operating Systems**: Linux, Android, Windows  
+- **Other Tools**: Markdown, command-line utilities, GitHub Actions, text editors  
 
 ---
 
@@ -32,18 +69,18 @@ These are some of the languages, tools, and platforms I use:
 ---
 
 ## 🛠 Projects and Work  
-Some of the areas I work on and share here include:  
+Some categories of work you may find in my repositories:  
 
-- 🔹 **Android tools and scripts** – practical code to make Android more customizable  
-- 🔹 **Automation with Termux** – small programs to speed up everyday tasks  
-- 🔹 **Learning projects** – experiments where I try new ideas and programming techniques  
-- 🔹 **Profile files** – creative use of GitHub for displaying information  
+- 🔹 **Android tools and utilities** – improving Android experiences with custom scripts and code  
+- 🔹 **Automation with Termux** – practical solutions for everyday use  
+- 🔹 **Learning repositories** – code for studying programming languages and testing new features  
+- 🔹 **Open-source contributions** – small but meaningful projects shared with the community  
 
 ---
 
 ## 🌐 Connect With Me  
 - GitHub: [@gabriellucaspaty-droid2](https://github.com/gabriellucaspaty-droid2)  
-- 💬 I’m open to collaborating on Android and open-source projects  
+- 💬 I’m open to collaborating on Android, Linux, and programming-related projects  
 
 ---
 
@@ -51,13 +88,14 @@ Some of the areas I work on and share here include:
 <details>
 <summary>📖 Fun Facts About Me</summary>
 
-- 🎮 I like exploring games and creative software  
-- 🧩 I enjoy solving puzzles and challenges  
-- 🎶 Music is part of my coding routine  
-- 🖥 I like customizing environments to make them more productive  
+- 🎮 I like retro and modern games  
+- 🎶 Music helps me stay productive while coding  
+- 🧩 I enjoy puzzles, problem-solving, and challenges  
+- 🖥 I customize my development environment for efficiency and comfort  
+- 📚 I often read about programming languages and software engineering  
 
 </details>
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to check my repositories, explore my work, and leave a star if you like it.*  
+⭐️ *Thanks for visiting my profile! Explore my repositories, check my work, and feel free to leave a star if you enjoy it.*  
