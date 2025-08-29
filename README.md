@@ -1,24 +1,23 @@
 # 👋 Hello, I'm Gabriellucaspaty Droid2  
 
 Welcome to my GitHub profile!  
-This repository is **special** because the content of this `README.md` is displayed directly on my profile page.  
-It serves as an introduction to who I am, the technologies I use, and the projects I share.  
+This is a **special repository**, which means the content of this `README.md` is shown directly on my profile page.  
+It introduces my skills, programming languages, mobile development knowledge, version control systems, and the type of projects I share here.  
 
 ---
 
 ## 🌟 About Me  
-- 💻 I am passionate about **software development and mobile systems**  
-- 📱 I focus on **Android, Termux, Linux tools, and automation**  
-- ⚡ I like experimenting with different **programming languages and frameworks**  
-- 🎯 My goal is to create projects that are practical, useful, and easy to understand  
-- 🌍 I enjoy being part of the **open-source community** on GitHub  
+- 💻 Passionate about **programming, scripting, and mobile technology**  
+- 📱 Focused on **Android development, Termux, Linux tools, and automation**  
+- ⚡ Enjoy experimenting with **different programming languages and frameworks**  
+- 🎯 Aim to share projects that are useful, practical, and easy to explore  
+- 🌍 Active participant in the **open-source community**  
 
 ---
 
 ## 🚀 Programming Languages  
 
-I like to learn, practice, and sometimes combine multiple programming languages.  
-Here is a long list of programming languages that I explore and use:  
+Here is a detailed list of programming languages I explore and use in different contexts:  
 
 - Assembly  
 - Bash / Shell  
@@ -54,35 +53,55 @@ Here is a long list of programming languages that I explore and use:
 
 ## 📱 Mobile Development  
 
-I am also very interested in mobile development, especially Android-related tools.  
-Here is a list of platforms, frameworks, SDKs, and tools I use or study:  
+I enjoy working with mobile development tools, SDKs, and frameworks.  
+Here is a complete list of important technologies in this field:  
 
-- **Android SDK** – the foundation of Android development  
-- **Android Studio** – IDE for creating Android apps  
-- **Kotlin** – modern language for Android apps  
-- **Java** – classic language for Android development  
-- **Flutter** (Dart) – cross-platform mobile development framework  
-- **React Native** (JavaScript/TypeScript) – cross-platform mobile apps  
-- **Xamarin** (C#) – Microsoft’s cross-platform mobile framework  
-- **Swift** – for iOS app development  
-- **Objective-C** – legacy iOS/macOS development  
-- **Cordova / PhoneGap** – hybrid mobile app frameworks  
-- **Ionic** – hybrid apps with Angular/React/Vue  
-- **NativeScript** – cross-platform apps using JavaScript/TypeScript  
-- **ADB (Android Debug Bridge)** – command-line tool for Android devices  
-- **Gradle** – build system for Android projects  
+### Core Android Development  
+- **Android SDK** – essential toolkit for Android apps  
+- **Android Studio** – IDE for Android development  
+- **Kotlin** – modern Android language  
+- **Java** – traditional Android language  
 - **Jetpack Compose** – modern UI toolkit for Android apps  
-- **Termux** – Linux environment on Android for scripts and automation  
-- **Firebase** – backend services for mobile apps (authentication, database, hosting)  
+- **Gradle** – build automation system for Android projects  
+- **ADB (Android Debug Bridge)** – command-line tool for Android devices  
+- **Termux** – Linux environment inside Android  
+
+### Cross-Platform Frameworks  
+- **Flutter (Dart)** – cross-platform apps  
+- **React Native (JavaScript/TypeScript)** – mobile development with React  
+- **Xamarin (C#)** – Microsoft cross-platform mobile framework  
+- **Cordova / PhoneGap** – hybrid mobile frameworks  
+- **Ionic** – hybrid apps with Angular/React/Vue  
+- **NativeScript** – cross-platform apps with JavaScript/TypeScript  
+
+### iOS Development  
+- **Swift** – official iOS language  
+- **Objective-C** – legacy iOS/macOS language  
+
+### Mobile Services and Libraries  
+- **Firebase** – backend services (authentication, hosting, database)  
+- **SQLite** – lightweight mobile database  
+- **Room** – database library for Android  
+- **Retrofit** – networking library for Android  
+- **Glide / Picasso** – image loading frameworks  
 
 ---
 
-## 🔧 Other Tools and Platforms  
-- **Version Control**: Git, GitHub  
-- **Operating Systems**: Linux, Android, Windows  
-- **Text & Code Editors**: VS Code, Vim, Nano  
-- **Automation Tools**: Shell scripting, Task automation, GitHub Actions  
-- **Documentation**: Markdown, README files, Wikis  
+## 🔧 Version Control Systems  
+
+I use version control systems to manage code history, collaboration, and automation.  
+Here is a list of important version control tools and platforms:  
+
+- **Git** – distributed version control system  
+- **GitHub** – hosting platform for Git repositories  
+- **GitLab** – Git-based collaboration platform  
+- **Bitbucket** – Git hosting by Atlassian  
+- **Subversion (SVN)** – centralized version control system  
+- **Mercurial (hg)** – distributed version control system  
+- **Perforce (Helix Core)** – version control for large projects  
+- **Bazaar (bzr)** – distributed version control system  
+- **Monotone** – decentralized version control system  
+- **CVS (Concurrent Versions System)** – legacy version control system  
 
 ---
 
@@ -93,19 +112,21 @@ Here is a list of platforms, frameworks, SDKs, and tools I use or study:
 ---
 
 ## 🛠 Projects and Work  
-Some categories of work you may find in my repositories:  
 
-- 🔹 **Android tools and utilities** – useful scripts and programs for Android  
-- 🔹 **Automation with Termux** – making everyday tasks easier with scripting  
-- 🔹 **Mobile experiments** – testing new frameworks and development techniques  
-- 🔹 **Learning projects** – repositories for studying new programming languages  
-- 🔹 **Open-source contributions** – sharing code and ideas with the community  
+Here are some types of work you may find in my repositories:  
+
+- 🔹 **Android tools and utilities** – scripts and apps to improve Android use  
+- 🔹 **Automation with Termux** – shell scripts for productivity and tasks  
+- 🔹 **Cross-platform mobile experiments** – testing frameworks like Flutter and React Native  
+- 🔹 **Programming language practice** – learning repositories for many languages  
+- 🔹 **Version control experiments** – working with Git, GitHub, GitLab, and other VCS tools  
+- 🔹 **Open-source contributions** – sharing code and documentation with others  
 
 ---
 
 ## 🌐 Connect With Me  
 - GitHub: [@gabriellucaspaty-droid2](https://github.com/gabriellucaspaty-droid2)  
-- 💬 Always open to discussions and collaborations on programming, mobile development, and open-source  
+- 💬 Open to collaboration on programming, Android, Linux, and open-source projects  
 
 ---
 
@@ -113,14 +134,14 @@ Some categories of work you may find in my repositories:
 <details>
 <summary>📖 Fun Facts About Me</summary>
 
-- 🎮 I like exploring retro games and modern apps  
-- 🎶 Music is part of my workflow while coding  
-- 🧩 I enjoy puzzles, logic challenges, and problem-solving  
-- 🖥 I customize my development environment to fit my personal style  
-- 📚 I read about programming languages, mobile platforms, and Linux systems  
+- 🎮 I enjoy exploring both retro and modern games  
+- 🎶 Music is always part of my coding sessions  
+- 🧩 I love solving puzzles, logic problems, and challenges  
+- 🖥 I like customizing my coding environment for better productivity  
+- 📚 I spend time studying software engineering, mobile platforms, and system tools  
 
 </details>
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to check out my repositories, explore my work, and leave a star if you like it.*  
+⭐️ *Thanks for visiting my profile! Feel free to explore my repositories, learn from my work, and leave a star if you enjoy it.*  
